@@ -78,7 +78,7 @@ case 6 output:
 
 case 7 input: 10
 case 7 output: 
-
+"
            * 
           *** 
          ***** 
