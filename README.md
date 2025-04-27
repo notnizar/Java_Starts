@@ -2,11 +2,9 @@
 A Program that print starts in different shapes
 
 case 1 input: 10
-case 1 output: 
 ```**********```
 
-case 2 input: 10
-case 2 output: 
+ case 2 input: 10 
 ```
 *
 *
@@ -21,7 +19,6 @@ case 2 output:
 ```
 
 case 3 input: 10
-case 3 output: 
 ```
 **********
 **********
@@ -35,7 +32,6 @@ case 3 output:
 **********
 ```
 case 4 input: 10
-case 4 output: 
 ```
 *
  *
@@ -50,7 +46,7 @@ case 4 output:
           *
 ```
 case 5 input: 10
-case 5 output: 
+
 ```
 *
            *
@@ -65,7 +61,7 @@ case 5 output:
   *
 ```
 case 6 input: 10
-case 6 output: 
+
 ```
            * 
           *** 
@@ -79,7 +75,7 @@ case 6 output:
   ******************* 
 ```
 case 7 input: 10
-case 7 output: 
+
 ```
            * 
           *** 
